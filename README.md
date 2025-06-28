@@ -56,3 +56,9 @@ TrustRank =
     0.2 * Sentiment +
     0.3 * Helpfulness Ratio +
     0.1 * Time Decay
+
+```
+
+## Chech it out here 👇
+- Streamlit App : https://trustrank-algorithm.streamlit.app/
+- Medium Blog : https://medium.com/@aarathisree.1535/trustrank-a-smarter-way-to-score-product-reviews-cf827b6b5df8
